@@ -1,0 +1,5 @@
+QGroupBox
+{
+  border: 1px solid darkgray;
+  border-radius: 2px;
+}

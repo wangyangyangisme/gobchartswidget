@@ -1,0 +1,303 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="The GobChartsWidget Library"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Modules"><param name="Local" value="modules.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Chart Views"><param name="Local" value="group___chart_views.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsBarView"><param name="Local" value="class_gob_charts_bar_view.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsBarView"><param name="Local" value="class_gob_charts_bar_view.html#ad94b054ef2d6151b6e7f4e1a15f24190"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsBarView"><param name="Local" value="class_gob_charts_bar_view.html#a448d919112e3eaee796f746031121052"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="generateGraphicsItems"><param name="Local" value="class_gob_charts_bar_view.html#a3ac1f5e0398a120911270085976e5cf9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="needsGrid"><param name="Local" value="class_gob_charts_bar_view.html#a6eca1a9ee17f78c78cffdec9c8b12bb4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="typeInteger"><param name="Local" value="class_gob_charts_bar_view.html#a45607e6692822dc46780287df57a1cfe"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsLineView"><param name="Local" value="class_gob_charts_line_view.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsLineView"><param name="Local" value="class_gob_charts_line_view.html#a0e9621d0a43719f0a50c324ee93db5e4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsLineView"><param name="Local" value="class_gob_charts_line_view.html#aa914792a0b440f706fb8dc91578939d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="generateGraphicsItems"><param name="Local" value="class_gob_charts_line_view.html#a6e13dc8e3151eff4e3fa79d4757b97f9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="needsGrid"><param name="Local" value="class_gob_charts_line_view.html#a4fd6572b45a2e0b3f57483cde5e436da"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="typeInteger"><param name="Local" value="class_gob_charts_line_view.html#a6f7628fb0f00924fd0aff227d3fb8580"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsPieView"><param name="Local" value="class_gob_charts_pie_view.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsPieView"><param name="Local" value="class_gob_charts_pie_view.html#a55c2897bbc3b6144cc512936036f5cab"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsPieView"><param name="Local" value="class_gob_charts_pie_view.html#a6efe35fbf3b738ea1e4ee75bad7be45e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="generateGraphicsItems"><param name="Local" value="class_gob_charts_pie_view.html#a5cb561698d23c10a3c1cfcf76d1cf3e0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="needsGrid"><param name="Local" value="class_gob_charts_pie_view.html#a2f199c0af5bf2353967811357b065543"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="typeInteger"><param name="Local" value="class_gob_charts_pie_view.html#a74445082673fbf4c526627b6732867a3"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespaces"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsColours"><param name="Local" value="namespace_gob_charts_colours.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="namespacemembers_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsColours"><param name="Local" value="namespace_gob_charts_colours.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsFactory"><param name="Local" value="class_gob_charts_factory.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createChart"><param name="Local" value="class_gob_charts_factory.html#a9a831b145630c31aafff5076c49214f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getInstance"><param name="Local" value="class_gob_charts_factory.html#a0d7307655cad8cb5249c5f41c335724d"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGraphItems"><param name="Local" value="class_gob_charts_graph_items.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGraphItems"><param name="Local" value="class_gob_charts_graph_items.html#a8d928b005728d96916084a9a73576012"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsGraphItems"><param name="Local" value="class_gob_charts_graph_items.html#a06421ca0c3543e0f517141d13281a9f4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addItem"><param name="Local" value="class_gob_charts_graph_items.html#a73a92f62c54d79b33723b36d73cfb951"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addItemsToScene"><param name="Local" value="class_gob_charts_graph_items.html#a32d4010e760d0f1a9337533417489f54"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clearSelection"><param name="Local" value="class_gob_charts_graph_items.html#aed555d4eec703fb06ece490610208511"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="deleteItems"><param name="Local" value="class_gob_charts_graph_items.html#a2119d6ede7b6d5746eab61c00e1df3d9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemLegend"><param name="Local" value="class_gob_charts_graph_items.html#a49650b46a2279faa6f2072e08154d220"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemRectF"><param name="Local" value="class_gob_charts_graph_items.html#a245b205766b8656114a84593a8c86407"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemRectF"><param name="Local" value="class_gob_charts_graph_items.html#aff52804a5e18b4e21cdb968153140cf5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getModelIndex"><param name="Local" value="class_gob_charts_graph_items.html#a11902fdb2e245303904bedfe61fa81a5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getModelIndex"><param name="Local" value="class_gob_charts_graph_items.html#a2484b0749b825a9cabac608e8fffecfd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lastDebugLogMsg"><param name="Local" value="class_gob_charts_graph_items.html#a3a86f9f2ee94262c9004f0f20edde9cf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="removeItemsFromScene"><param name="Local" value="class_gob_charts_graph_items.html#a805045c0add5c41002de7f3e72608023"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDebugLoggingOn"><param name="Local" value="class_gob_charts_graph_items.html#a50194e08159ba999ba2aae7dcae08ffc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSelected"><param name="Local" value="class_gob_charts_graph_items.html#adf2abfd01c1d129ccc4965ddff3a2ed3"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGrid"><param name="Local" value="class_gob_charts_grid.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGrid"><param name="Local" value="class_gob_charts_grid.html#acee50587aa52fe9f062eafe66dfdd0b0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsGrid"><param name="Local" value="class_gob_charts_grid.html#aa1b0b52eef901e8e25f5256a77357235"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addGridToScene"><param name="Local" value="class_gob_charts_grid.html#a9e51df0c886b36e50ce0f53473ef115e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="constructGrid"><param name="Local" value="class_gob_charts_grid.html#a57ba06518cd312f11a23d45f58d0fe49"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="gridWidth"><param name="Local" value="class_gob_charts_grid.html#a8c3c426b56be4c09c0539c9d14adb737"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lastDebugLogMsg"><param name="Local" value="class_gob_charts_grid.html#a1b00587d6b6009bf7bb611e345eca65d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="removeGridFromScene"><param name="Local" value="class_gob_charts_grid.html#afe159958f419b97944f13792e558dc46"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDebugLoggingOn"><param name="Local" value="class_gob_charts_grid.html#ac403c901c4d67eeaa8c65c185c4c254b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridColour"><param name="Local" value="class_gob_charts_grid.html#a23f8823bfd9ed8dbf9d05ba218c803c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridLineStyle"><param name="Local" value="class_gob_charts_grid.html#ae9ceca7ee91e7de19c703712054b9e19"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridRectF"><param name="Local" value="class_gob_charts_grid.html#a0f48801f475a524df4f6bcf04d0ffa32"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setHorizontalGridLines"><param name="Local" value="class_gob_charts_grid.html#ab5daa5ab073962488a2087c4dbeee116"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setVerticalGridLines"><param name="Local" value="class_gob_charts_grid.html#ad76f3905b1069b02192b196d5b2ee89f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsNoCopy"><param name="Local" value="class_gob_charts_no_copy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsNoCopy"><param name="Local" value="class_gob_charts_no_copy.html#ae052d84edeba3309ec77b73e8dda056a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsNoCopy"><param name="Local" value="class_gob_charts_no_copy.html#a2e70dd3c3bb2868111f16aeeb7cd367a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsTextItem"><param name="Local" value="class_gob_charts_text_item.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsTextItem"><param name="Local" value="class_gob_charts_text_item.html#aad2ba6aa23d151417bf6c808d61f822d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="alignment"><param name="Local" value="class_gob_charts_text_item.html#ab95e29434d350022a2d05ee1718a82dc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getStateXML"><param name="Local" value="class_gob_charts_text_item.html#a2bd78444b2d99dea3fcf748ffebbb8e3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="identity"><param name="Local" value="class_gob_charts_text_item.html#a4bda6854ec94dbeff0669f2d4951d8ad"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mousePressEvent"><param name="Local" value="class_gob_charts_text_item.html#a0ac52bcb0a01f8f59f4472d0ff566e86"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="receiveKeyEvent"><param name="Local" value="class_gob_charts_text_item.html#a85270bd61a75a2944a8b5ee21b6b47dc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setAlignment"><param name="Local" value="class_gob_charts_text_item.html#ab724619338cf226fc41837d8a10e34f9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFont"><param name="Local" value="class_gob_charts_text_item.html#a724a98e5b288bbf275c91b96da30a15d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setMaxFontSize"><param name="Local" value="class_gob_charts_text_item.html#ae47f0836db3210d0b0eae6f161d4aed4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setPlainText"><param name="Local" value="class_gob_charts_text_item.html#a447d4366f40eb7a0bccaa96685285c4e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setRectF"><param name="Local" value="class_gob_charts_text_item.html#a3eb0a3e3da78015bc35a88652e14349b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setStateXML"><param name="Local" value="class_gob_charts_text_item.html#a497a67376c0c180c337fccb624d9c687"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsToolsWidget"><param name="Local" value="class_gob_charts_tools_widget.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsToolsWidget"><param name="Local" value="class_gob_charts_tools_widget.html#a78f20361726e2684a7f8c44d4220fa08"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsToolsWidget"><param name="Local" value="class_gob_charts_tools_widget.html#a09c7b18aab0fba86fa43a2c257b7e155"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clearChart"><param name="Local" value="class_gob_charts_tools_widget.html#a8b6e51fd4b165fc459b1d4022d54aa13"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createChart"><param name="Local" value="class_gob_charts_tools_widget.html#a62ff3aef16673f5fe03f35a030a219d7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="emitStateSignals"><param name="Local" value="class_gob_charts_tools_widget.html#a5c4aee794c453f48a3b6a14afaff2caa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getStateXML"><param name="Local" value="class_gob_charts_tools_widget.html#ad369b2befe5ff78d09bbfed67d3378fb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="loadChart"><param name="Local" value="class_gob_charts_tools_widget.html#a56c7747e98431a648289e5cea8dbf4aa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="receiveLabelDetails"><param name="Local" value="class_gob_charts_tools_widget.html#a55f52ea45f401941fa37abe67cf1688f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="requestLabelDetails"><param name="Local" value="class_gob_charts_tools_widget.html#a841bdd7e7bcd5f6629b7fed2401984d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="saveChart"><param name="Local" value="class_gob_charts_tools_widget.html#a7888bf73ec61cc4d9fde9fa38449d7a4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setAllowedDataRange"><param name="Local" value="class_gob_charts_tools_widget.html#a34e81541450b1f23a4b0348e3897b70f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFixedColour"><param name="Local" value="class_gob_charts_tools_widget.html#a96c4d29a706d30698cb6f54c8fee4365"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridColour"><param name="Local" value="class_gob_charts_tools_widget.html#a7df50bc75510b229a2eef0979f76a350"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridLineStyle"><param name="Local" value="class_gob_charts_tools_widget.html#a9d6f8d70b3d982490da7c0182940971f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setHorizontalGridLines"><param name="Local" value="class_gob_charts_tools_widget.html#add996dbc7bf00db18eec0c0acaa1ef9a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setLabelDetails"><param name="Local" value="class_gob_charts_tools_widget.html#ae766648c6b899e51483e6ee5851aaefb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setRandomColours"><param name="Local" value="class_gob_charts_tools_widget.html#a618f1a1b1267dd84d76e68e991ddf98f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setShowTotalRange"><param name="Local" value="class_gob_charts_tools_widget.html#ac6d8463fa77de5e9dd0b1ad1317bd838"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setStateXML"><param name="Local" value="class_gob_charts_tools_widget.html#a0e001a7ab4d42c9addf9ccbb5d4fff74"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setVerticalGridLines"><param name="Local" value="class_gob_charts_tools_widget.html#a465709d3512c9af774a9542ac1b04e20"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LabelDetails"><param name="Local" value="class_gob_charts_tools_widget.html#a269f2dafbb1f0eae721e9b48a07a0481"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsValidItems"><param name="Local" value="class_gob_charts_valid_items.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsValidItems"><param name="Local" value="class_gob_charts_valid_items.html#a5ffee69b97e7a996d50d0c35e9a8e361"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsValidItems"><param name="Local" value="class_gob_charts_valid_items.html#a7aa2122f489e9ef17944b4ff265093f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addValidItem"><param name="Local" value="class_gob_charts_valid_items.html#ad2d93851530699e1ed4141fd83fcd52b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="category"><param name="Local" value="class_gob_charts_valid_items.html#a89e3ac40349c069cb568554c61c207e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clear"><param name="Local" value="class_gob_charts_valid_items.html#ab9215f8bf7010ecbc55afc147d347478"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="data"><param name="Local" value="class_gob_charts_valid_items.html#a24b5f4ac23cb123979cead5c34d82e9b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="size"><param name="Local" value="class_gob_charts_valid_items.html#a133e90cae68a66d12ba7acfa56fafcbb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validRows"><param name="Local" value="class_gob_charts_valid_items.html#a7409461aaf396fa224a300ef64880e7c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsView"><param name="Local" value="class_gob_charts_view.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsColumn"><param name="Local" value="class_gob_charts_view.html#a37350591e8457ffef2d288842315774e"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CATEGORY"><param name="Local" value="class_gob_charts_view.html#a37350591e8457ffef2d288842315774ea8f23e4fd990d40b2518d38822d6a98b6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="VALUE"><param name="Local" value="class_gob_charts_view.html#a37350591e8457ffef2d288842315774ea9af840583935eacc2bf02ed76fcb3679"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsView"><param name="Local" value="class_gob_charts_view.html#ae4ff6d5078304be7f54ccec85d753d54"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsView"><param name="Local" value="class_gob_charts_view.html#a947d166bfef481e5b6e6617aa7bf60c2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="addToGraphItemsContainer"><param name="Local" value="class_gob_charts_view.html#ab5cee9b9113824037c3158030d09fbde"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="category"><param name="Local" value="class_gob_charts_view.html#a0b1bf622bf02223e42591b9a98069bb3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clearLegend"><param name="Local" value="class_gob_charts_view.html#a07fcb7d37f58a6e96bda92bdb972fc56"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createLegendItem"><param name="Local" value="class_gob_charts_view.html#a8f20d803b1157da841130831db989557"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="dataChanged"><param name="Local" value="class_gob_charts_view.html#ab27f9e71ac7294b1c94dabeb39523b45"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="debugLog"><param name="Local" value="class_gob_charts_view.html#a23c26a87df3e0d24839dd6c46a9f85fe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="drawChart"><param name="Local" value="class_gob_charts_view.html#a7d2f2afececade3250cb0220dea1152d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="emitLabelDetails"><param name="Local" value="class_gob_charts_view.html#a22e2b9ec8925265215f3f45e41c02b00"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="fixedColour"><param name="Local" value="class_gob_charts_view.html#a98878d2ed7ebfe38e093d37c3cd3d2f0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="generateGraphicsItems"><param name="Local" value="class_gob_charts_view.html#a86007759636a061f8f5ff761ca8799e9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getStateXML"><param name="Local" value="class_gob_charts_view.html#af2b2a9274b42525180e696b321330355"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="gridWidth"><param name="Local" value="class_gob_charts_view.html#ae2e0a18c3ba5a7f23ccd4e51e9780d50"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="highLightLegendItem"><param name="Local" value="class_gob_charts_view.html#aa90772666d648eba785cabc9b3d97605"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="horizontalOffset"><param name="Local" value="class_gob_charts_view.html#acba12270c8c2a49421df9d7d0a134050"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="indexAt"><param name="Local" value="class_gob_charts_view.html#ab8835c2f8cce870159fce140acb8f9ee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="innerSceneRectF"><param name="Local" value="class_gob_charts_view.html#a50843137eeaace39968db78e5bbcfe4f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isIndexHidden"><param name="Local" value="class_gob_charts_view.html#a0bf82ef203d396e14f483d20fb56c4ab"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isWithinAllowedRange"><param name="Local" value="class_gob_charts_view.html#a412b91e4fed621ebaf9b1f5854aa0209"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="keyPressEvent"><param name="Local" value="class_gob_charts_view.html#a5ccf713f50b25e4776dd72f449a04e07"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lastDebugLogMsg"><param name="Local" value="class_gob_charts_view.html#a586ff568c49c0462dc810403f79d900d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="legendItemSelected"><param name="Local" value="class_gob_charts_view.html#af14f79506e2377aaf8e58f669e76431f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mousePressEvent"><param name="Local" value="class_gob_charts_view.html#aa72078160557bb28ef9d9004d0a11a8f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="moveCursor"><param name="Local" value="class_gob_charts_view.html#acce322bd39bce04ed15bebe1de76bc43"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="needsGrid"><param name="Local" value="class_gob_charts_view.html#ad0a7a55d5e3c25f3d1e0077c08b5b80f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nrValidItems"><param name="Local" value="class_gob_charts_view.html#a4dc8708c82f37425352ffdd48e6b6f43"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="requestLabelDetails"><param name="Local" value="class_gob_charts_view.html#ab7d91f61e610b199644fa72bff5e6cc6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rowsAboutToBeRemoved"><param name="Local" value="class_gob_charts_view.html#ae2917b564f4d289888347c77f57c7aaa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rowsInserted"><param name="Local" value="class_gob_charts_view.html#a111842cbbf8c40fe4dc440f5f3e33f6b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="scrollTo"><param name="Local" value="class_gob_charts_view.html#ac437da67c122da72171a1878f564cdec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setAllowedDataRange"><param name="Local" value="class_gob_charts_view.html#a87f999e44520d9b98abcc1764677b8f5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDebugLoggingOn"><param name="Local" value="class_gob_charts_view.html#aa70c50bd52566ef84a21f4714c278d08"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setFixedColour"><param name="Local" value="class_gob_charts_view.html#a3760e5be6f08c23a01d90a997b16ab48"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridColour"><param name="Local" value="class_gob_charts_view.html#ae64761463f3368ba64d15f61977e90c9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setGridLineStyle"><param name="Local" value="class_gob_charts_view.html#ab5d79b862f80d92b17d517c9cec01b60"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setHorizontalGridLines"><param name="Local" value="class_gob_charts_view.html#a3ba395a2fb5874e0f058df2b3eec2524"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setLabelDetails"><param name="Local" value="class_gob_charts_view.html#aad1d62a9323f48b18ddf51490bdbce09"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setModel"><param name="Local" value="class_gob_charts_view.html#aa972290a99de27696c272fb0aa5fbb0d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setRandomColours"><param name="Local" value="class_gob_charts_view.html#aa2b6f334966401558170c20b21317986"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSelection"><param name="Local" value="class_gob_charts_view.html#ad1bad6fec3ff21e240cfe5ada219a794"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setShowTotalRange"><param name="Local" value="class_gob_charts_view.html#a0fad1ed3c04b0219fb846eea76649c00"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setStateXML"><param name="Local" value="class_gob_charts_view.html#a440616cc1cd2a7cc897779c1e4e9543f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setVerticalGridLines"><param name="Local" value="class_gob_charts_view.html#a763518585615d7ddfa0a5c50eae464fa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="stripSpace"><param name="Local" value="class_gob_charts_view.html#aabf1f45d63b5a5b76ec35dd07307088e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="totalValue"><param name="Local" value="class_gob_charts_view.html#a980d8c8fb7993cd316a313e3b71dd65e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="typeInteger"><param name="Local" value="class_gob_charts_view.html#acebd986cfbe015b98ff0771406953b7c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="useFixedColour"><param name="Local" value="class_gob_charts_view.html#ab19e9c4d46d07083a70ee6ccb10c92a0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validRowList"><param name="Local" value="class_gob_charts_view.html#ae817fd184591b1771cb6a815b39cf3f7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="value"><param name="Local" value="class_gob_charts_view.html#a15db2cdf8347f76a5293039382e2fc47"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="verticalOffset"><param name="Local" value="class_gob_charts_view.html#a2ad410f5ea668e995d9051bfe963c7cc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="visualRect"><param name="Local" value="class_gob_charts_view.html#aef50d46c501d1df0ea25a520fc095097"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="visualRegionForSelection"><param name="Local" value="class_gob_charts_view.html#a8d7614aa2e1e1851f093d7af90ca8558"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsViewPrivate"><param name="Local" value="class_gob_charts_view.html#a9d328e4f57b7c6ab7cc8294f30aaba26"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsWidget"><param name="Local" value="class_gob_charts_widget.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsWidget"><param name="Local" value="class_gob_charts_widget.html#a660ac7f24d8540e6bb1414b64fff2c78"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="~GobChartsWidget"><param name="Local" value="class_gob_charts_widget.html#a1cf11891b63718f3749bf0236b9cff75"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="lastDebugLogMsg"><param name="Local" value="class_gob_charts_widget.html#ab25e6a4f57c1c7ac64c76d8d9acd380e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setDebugLoggingOn"><param name="Local" value="class_gob_charts_widget.html#a8ce35e2bf7aca7bb40edf3dba74e41c2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setModel"><param name="Local" value="class_gob_charts_widget.html#a26be80d497d6bbcf55dba9cc6537bcfb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="setSelectionModel"><param name="Local" value="class_gob_charts_widget.html#ad930a9818c2fb8c2b37d9705d8b8c3ef"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsNoCopy"><param name="Local" value="class_gob_charts_no_copy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsFactory"><param name="Local" value="class_gob_charts_factory.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGraphItems"><param name="Local" value="class_gob_charts_graph_items.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGrid"><param name="Local" value="class_gob_charts_grid.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsTextItem"><param name="Local" value="class_gob_charts_text_item.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsToolsWidget"><param name="Local" value="class_gob_charts_tools_widget.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsValidItems"><param name="Local" value="class_gob_charts_valid_items.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsView"><param name="Local" value="class_gob_charts_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsBarView"><param name="Local" value="class_gob_charts_bar_view.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsLineView"><param name="Local" value="class_gob_charts_line_view.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsPieView"><param name="Local" value="class_gob_charts_pie_view.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsWidget"><param name="Local" value="class_gob_charts_widget.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="QAbstractItemView"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsView"><param name="Local" value="class_gob_charts_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="QFrame"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsToolsWidget"><param name="Local" value="class_gob_charts_tools_widget.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsWidget"><param name="Local" value="class_gob_charts_widget.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="QGraphicsTextItem"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsTextItem"><param name="Local" value="class_gob_charts_text_item.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="QObject"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGraphItems"><param name="Local" value="class_gob_charts_graph_items.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsGrid"><param name="Local" value="class_gob_charts_grid.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GobChartsValidItems"><param name="Local" value="class_gob_charts_valid_items.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="functions_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Related Functions"><param name="Local" value="functions_rela.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="globalincludes.h"><param name="Local" value="globalincludes_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsbarview.cpp"><param name="Local" value="gobchartsbarview_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsbarview.h"><param name="Local" value="gobchartsbarview_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartscolours.cpp"><param name="Local" value="gobchartscolours_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartscolours.h"><param name="Local" value="gobchartscolours_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsfactory.cpp"><param name="Local" value="gobchartsfactory_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsfactory.h"><param name="Local" value="gobchartsfactory_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsgraphitems.cpp"><param name="Local" value="gobchartsgraphitems_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsgraphitems.h"><param name="Local" value="gobchartsgraphitems_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsgrid.cpp"><param name="Local" value="gobchartsgrid_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsgrid.h"><param name="Local" value="gobchartsgrid_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartslineview.cpp"><param name="Local" value="gobchartslineview_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartslineview.h"><param name="Local" value="gobchartslineview_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsnocopy.h"><param name="Local" value="gobchartsnocopy_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartspieview.cpp"><param name="Local" value="gobchartspieview_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartspieview.h"><param name="Local" value="gobchartspieview_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartstextitem.cpp"><param name="Local" value="gobchartstextitem_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartstextitem.h"><param name="Local" value="gobchartstextitem_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartstoolswidget.cpp"><param name="Local" value="gobchartstoolswidget_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartstoolswidget.h"><param name="Local" value="gobchartstoolswidget_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsvaliditems.cpp"><param name="Local" value="gobchartsvaliditems_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsvaliditems.h"><param name="Local" value="gobchartsvaliditems_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsview.cpp"><param name="Local" value="gobchartsview_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartsview.h"><param name="Local" value="gobchartsview_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartswidget.cpp"><param name="Local" value="gobchartswidget_8cpp_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartswidget.h"><param name="Local" value="gobchartswidget_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="gobchartswidgetdef.h"><param name="Local" value="gobchartswidgetdef_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
